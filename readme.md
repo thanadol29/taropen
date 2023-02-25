@@ -1,4 +1,4 @@
-fork of tarven with open api key
+fork of tarven
 - start server
 npm install
 node sever.js
